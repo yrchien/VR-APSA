@@ -1,5 +1,5 @@
 # VR-APSA
-Sample codes for the VR-APSA algorithm.
+Sample codes for the VR-APSA algorithm. The main file is Eval_main_0121_2019.m.
 
 Paper associated with the codes can be found as follows:
 
